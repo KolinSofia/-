@@ -7,4 +7,6 @@ if x<0:
 if y<0:
     moduly = -y
 sred = (modulx+moduly)/2
-print(Sum, Razn, sred)
+umnoj = x*y
+delen = x/y
+print(Sum, Razn, sred, umnoj, delen)
